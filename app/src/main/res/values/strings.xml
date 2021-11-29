@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+
+    <string name="initial_time">00:00.000</string>
+    <string name="format_time">%02d:%02d.%03d</string>
+
+    <string name="label_start">Mulai</string>
+    <string name="label_pause">Jeda</string>
+    <string name="label_reset">Reset</string>
+    <string name="label_save">Simpan putaran</string>
+</resources>
